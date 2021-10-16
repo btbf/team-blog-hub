@@ -6,7 +6,7 @@ export const members: Member[] = [
     name: "X-Stakepool",
     role: "SPO",
     bio: "SPO",
-    avatarSrc: "/avatars/doe.jpg",
+    avatarSrc: "https://static.adapools.org/pool_logo/788898a81174665316af96880459dcca053f7825abb1b0db9a433630.png",
     sources: ["https://xstakepool.com/feed/"],
     twitterUsername: "btbfpark",
   },
