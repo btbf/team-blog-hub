@@ -1,8 +1,8 @@
 export const config = {
   siteMeta: {
-    title: "Team Blog Hub",
-    teamName: "catnose Inc.",
-    description: "RSS based blog starter kit for teams.",
+    title: "Cardano Community SPO Blog",
+    teamName: "SPO JAPAN GUILD",
+    description: "SPOが発信する有益な情報をまとめました",
   },
   siteRoot:
     process.env.NODE_ENV === "production"
@@ -14,12 +14,8 @@ export const config = {
       href: "/about",
     },
     {
-      title: "Company",
-      href: "https://zenn.dev/catnose99/articles/cb72a73368a547756862",
-    },
-    {
-      title: "GitHub",
-      href: "https://github.com/catnose99/team-blog-hub",
+      title: "GUILD",
+      href: "https://spojapanguild.net/",
     },
   ],
 };
