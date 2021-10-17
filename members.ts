@@ -61,7 +61,7 @@ export const members: Member[] = [
     role: "SPO",
     bio: "SPO",
     avatarSrc: "https://static.adapools.org/pool_logo/5c8751066db31d6745bc8a58ba1534de67a95f9962fc309b4673dd8c.png",
-    sources: ["https://sugarstakepool.jp/feed/"],
+    sources: ["https://note.com/cardano_sugar/rss"],
     twitterUsername: "sugar417K",
   },
 ];
