@@ -28,7 +28,7 @@ export const members: Member[] = [
     sources: ["https://coffeepool.jp/feed/"],
     twitterUsername: "hix_coffeepool",
   },
-  {
+    {
     id: "MYB",
     name: "MIYABI KYOTO",
     role: "SPO",
@@ -37,7 +37,7 @@ export const members: Member[] = [
     sources: ["https://miyabi-kyoto.org/feed/"],
     twitterUsername: "Miyabi_Kyoto_",
   },
-  {
+    {
     id: "WYAM",
     name: "WYAM-StakePool",
     role: "SPO",
@@ -46,7 +46,7 @@ export const members: Member[] = [
     sources: ["https://wyam-stakepool.com/?feed=rss2"],
     twitterUsername: "WYAM_StakePool",
   },
-  {
+    {
     id: "SUGAR",
     name: "Sugar Stake Pool",
     role: "SPO",
