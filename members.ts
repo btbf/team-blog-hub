@@ -28,7 +28,7 @@ export const members: Member[] = [
     sources: ["https://coffeepool.jp/feed/"],
     twitterUsername: "hix_coffeepool",
   },
-    {
+  {
     id: "MYB",
     name: "MIYABI KYOTO",
     role: "SPO",
@@ -37,7 +37,7 @@ export const members: Member[] = [
     sources: ["https://miyabi-kyoto.org/feed/"],
     twitterUsername: "Miyabi_Kyoto_",
   },
-      {
+  {
     id: "WYAM",
     name: "WYAM-StakePool",
     role: "SPO",
@@ -45,5 +45,14 @@ export const members: Member[] = [
     avatarSrc: "https://static.adapools.org/pool_logo/940d6893606290dc6b7705a8aa56a857793a8ae0a3906d4e2afd2119.png",
     sources: ["https://wyam-stakepool.com/?feed=rss2"],
     twitterUsername: "WYAM_StakePool",
+  },
+  {
+    id: "SUGAR",
+    name: "Sugar Stake Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://static.adapools.org/pool_logo/5c8751066db31d6745bc8a58ba1534de67a95f9962fc309b4673dd8c.png",
+    sources: ["https://sugarstakepool.jp/feed/"],
+    twitterUsername: "sugar417K",
   },
 ];
