@@ -46,4 +46,13 @@ export const members: Member[] = [
     sources: ["https://wyam-stakepool.com/?feed=rss2"],
     twitterUsername: "WYAM_StakePool",
   },
+   {
+    id: "SAKE",
+    name: "Sake Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://static.adapools.org/pool_logo/37d2b23f574680a88198e99cc884b6cf9292ce3500467584cb5093f2.png",
+    sources: ["https://sakepool.com/feed.xml"],
+    twitterUsername: "sakepool_ada",
+  },
 ];
