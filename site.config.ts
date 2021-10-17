@@ -1,6 +1,6 @@
 export const config = {
   siteMeta: {
-    title: "Cardano Community SPO Blog",
+    title: "Cardano Community SPO Blog β",
     teamName: "SPO JAPAN GUILD",
     description: "SPOが発信する有益な情報をまとめました",
   },
