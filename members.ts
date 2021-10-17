@@ -64,4 +64,13 @@ export const members: Member[] = [
     sources: ["https://note.com/cardano_sugar/rss"],
     twitterUsername: "sugar417K",
   },
+   {
+    id: "NIZI",
+    name: "NIZI Stake Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://static.adapools.org/pool_logo/cfb6ee1de1dc2406a4ffe78704b65487dbd85e1fffdf70cbc3b9a2ed.png",
+    sources: ["https://nizi-stake-pool.com/feed/"],
+    twitterUsername: "sNiziStake",
+  },
 ];
