@@ -73,4 +73,23 @@ export const members: Member[] = [
     sources: ["https://nizi-stake-pool.com/feed/"],
     twitterUsername: "sNiziStake",
   },
+   {
+    id: "JSP",
+    name: "Japanese Stake Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://pbs.twimg.com/profile_images/1387325125867892740/JUuqRrB3_400x400.jpg",
+    sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCBWyk1XiT0qRQwHYuasyv4Q"],
+    twitterUsername: "cardano_spo",
+  },
+   {
+    id: "NAP",
+    name: "NEKOTA ADA POOL",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://static.adapools.org/pool_logo/56b76df4f3653a6faf62f6f6838045cf9f3dde69a1eee353de526ee4.png",
+    sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCz3QzD1qX5fm1KqQGGZhR0A"],
+    twitterUsername: "necotaSensei",
+  },
+  
 ];
