@@ -100,4 +100,13 @@ export const members: Member[] = [
     sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCTuKVZSUCtZX6HxK-Dg4eNw"],
     twitterUsername: "Cardano_ISSA",
   },
+   {
+    id: "MOMO",
+    name: "MOMO ADA POOL",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://static.adapools.org/pool_logo/c6da03f57821cdefa6f77958de6d99e5de4740cf568bc1fbd59b0562.png",
+    sources: ["https://note.com/momo_ada_pool/rss"],
+    twitterUsername: "momoadapool",
+  },
 ];
