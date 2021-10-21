@@ -118,4 +118,22 @@ export const members: Member[] = [
     sources: ["https://note.com/momo_ada_pool/rss"],
     twitterUsername: "momoadapool",
   },
+   {
+    id: "BAMBO",
+    name: "Bamboo Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://pbs.twimg.com/profile_images/1424334834940276736/iSiCPvb0_400x400.jpg",
+    sources: ["https://bamboo-pool.com/wordpress/feed/"],
+    twitterUsername: "bamboo_pool_jp",
+  },
+   {
+    id: "AICHI",
+    name: "Aichi Stake Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://pbs.twimg.com/profile_images/1424334834940276736/iSiCPvb0_400x400.jpg",
+    sources: ["https://aichi-stakepool.com/feed/"],
+    twitterUsername: "_beyondstandard",
+  },
 ];
