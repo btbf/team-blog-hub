@@ -132,7 +132,7 @@ export const members: Member[] = [
     name: "Aichi Stake Pool",
     role: "SPO",
     bio: "SPO",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1345832328472403969/BXx8W4k1_400x400.jpg",
+    avatarSrc: "https://static.adapools.org/pool_logo/970e9a7ae4677b152c27a0eba3db996b372de094d24fc2974768f3da.png",
     sources: ["https://aichi-stakepool.com/feed/"],
     twitterUsername: "_beyondstandard",
   },
