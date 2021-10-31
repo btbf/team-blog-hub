@@ -163,4 +163,13 @@ export const members: Member[] = [
     sources: ["https://www.hunny-pool.com/blog-feed.xml"],
     twitterUsername: "kurokuma_hunny",
   },
+   {
+    id: "Hino0",
+    name: "Hinomaru Stake Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://pbs.twimg.com/profile_images/1445397297316106251/xRsieGwN_400x400.jpg",
+    sources: ["https://note.com/k0ud0u_plus/rss"],
+    twitterUsername: "HinomaruPool",
+  },
 ];
