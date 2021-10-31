@@ -172,5 +172,4 @@ export const members: Member[] = [
     sources: ["https://note.com/k0ud0u_plus/rss"],
     twitterUsername: "HinomaruPool",
   },
-  excludeUrlRegex: "エポック"
 ];
