@@ -2,7 +2,7 @@ import Link from "next/link";
 import { members } from "@members";
 import { getMemberPath } from "@src/utils/helper";
 var members1 = members.slice(0, 9)
-var members2 = members.slice(10, 9)
+var members2 = members.slice(10, 20)
 export const ScrollableMembers: React.FC = () => {
   return (
     <div className="scrollable-members"> 
