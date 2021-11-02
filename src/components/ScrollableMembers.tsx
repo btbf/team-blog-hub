@@ -1,11 +1,11 @@
 import Link from "next/link";
 import { members } from "@members";
 import { getMemberPath } from "@src/utils/helper";
-
+var members1 = members.slice(0, 6)
 export const ScrollableMembers: React.FC = () => {
   return (
-    <div className="scrollable-members">
-      {members.map((member, i) => (
+    <div className="scrollable-members"> 
+      {members1.map((member, i) => (
         <Link
           key={`scrollable-member-${i}`}
           href={getMemberPath(member.id)}
