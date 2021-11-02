@@ -28,6 +28,10 @@ export const ScrollableMembers: React.FC = () => {
         </Link>
       ))}
     </div>
+  );
+};
+export const ScrollableMembers: React.FC = () => {
+  return (
     <div className="scrollable-members"> 
       {members2.map((member, i) => (
         <Link
