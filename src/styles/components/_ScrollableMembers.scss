@@ -1,5 +1,6 @@
 .scrollable-members {
   display: flex;
+  flex-wrap: wrap;
   align-items: flex-start;
   overflow-x: scroll;
   padding-bottom: 1rem; /* for scrollbar */
