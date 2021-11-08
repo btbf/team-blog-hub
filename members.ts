@@ -181,4 +181,13 @@ export const members: Member[] = [
     sources: ["https://kazunaka.com/category/blog/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/ada/feed/"],
     twitterUsername: "nkr_1234",
   },
+   {
+    id: "NGS",
+    name: "NGS発達障がい支援KGSP",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://pbs.twimg.com/profile_images/1415329922499768326/zM-DJK9R_400x400.jpg",
+    sources: ["https://kagisippo.wixsite.com/website-1/blog/blog-feed.xml"],
+    twitterUsername: "NGS_KGSP",
+  },
 ];
