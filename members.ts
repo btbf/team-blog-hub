@@ -164,15 +164,6 @@ export const members: Member[] = [
     twitterUsername: "kurokuma_hunny",
   },
    {
-    id: "Hino0",
-    name: "Hinomaru Stake Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1455310917273808896/KQ5x1Hu__400x400.jpg",
-    sources: ["https://note.com/k0ud0u_plus/rss"],
-    twitterUsername: "HinomaruPool",
-  },
-   {
     id: "NKR",
     name: "NKR ADA Pool",
     role: "SPO",
