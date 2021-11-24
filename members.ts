@@ -186,8 +186,17 @@ export const members: Member[] = [
     name: "KURIS JAPAN",
     role: "SPO",
     bio: "SPO",
-    avatarSrc: "	https://static.adapools.org/pool_logo/78149b89d9aa69657ff326a82a0949e5c61b44d4d25b87f8ea6c9a0a.png",
+    avatarSrc: "https://static.adapools.org/pool_logo/78149b89d9aa69657ff326a82a0949e5c61b44d4d25b87f8ea6c9a0a.png",
     sources: ["https://kuris.org/?feed=rss2"],
     twitterUsername: "hakunaCardanoS1",
+  },
+   {
+    id: "TKY",
+    name: "たこ焼きStake Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://pbs.twimg.com/profile_images/1371848838697353225/8jOi8niT_400x400.jpg",
+    sources: ["https://note.com/tako3spo/rss"],
+    twitterUsername: "TAKO3_Takoyaki",
   },
 ];
