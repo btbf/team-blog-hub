@@ -141,7 +141,7 @@ export const members: Member[] = [
     name: "SITION POOL",
     role: "SPO",
     bio: "SPO",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1336154785284681729/-7WUqVV7_400x400.jpg",
+    avatarSrc: "https://pbs.twimg.com/profile_images/1462572479374053378/0is-vZFr_400x400.jpg",
     sources: ["https://sipo.tokyo/?feed=rss2"],
     twitterUsername: "SIPO_Tokyo",
   },
