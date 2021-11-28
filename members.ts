@@ -199,7 +199,6 @@ export const members: Member[] = [
     sources: ["https://note.com/tako3spo/rss"],
     twitterUsername: "TAKO3_Takoyaki",
   },
-  },
    {
     id: "LSL",
     name: "Low-cost, Steady and Lucrative Stake Poo",
