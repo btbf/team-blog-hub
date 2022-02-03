@@ -208,4 +208,13 @@ export const members: Member[] = [
     sources: ["https://lsl-stake-pool.blogspot.com/feeds/posts/default?alt=rss"],
     twitterUsername: "marsha_lsl_spo",
   },
+    {
+    id: "MOEKO",
+    name: "Moeko Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://cdn.adapools.org/pool_logo/1285e74b0ad83a6b2bf1d765103253b4f15e624468236292ca718183.png",
+    sources: ["https://cardano-ada.info/category/blog/feed"],
+    twitterUsername: "zakana_2828",
+  },
 ];
