@@ -199,15 +199,6 @@ export const members: Member[] = [
     sources: ["https://note.com/tako3spo/rss"],
     twitterUsername: "TAKO3_Takoyaki",
   },
-   {
-    id: "LSL",
-    name: "Low-cost, Steady and Lucrative Stake Poo",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://static.adapools.org/pool_logo/5bf88e8187707c8c086b548dbe53d3979fd41233e1dad2f49dfc9c6e.png",
-    sources: ["https://lsl-stake-pool.blogspot.com/feeds/posts/default?alt=rss"],
-    twitterUsername: "marsha_lsl_spo",
-  },
     {
     id: "MOEKO",
     name: "Moeko Pool",
