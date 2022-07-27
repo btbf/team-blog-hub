@@ -199,16 +199,7 @@ export const members: Member[] = [
     sources: ["https://cardano-ada.info/category/blog/feed"],
     twitterUsername: "zakana_2828",
   },
-   {
-    id: "BAMBO",
-    name: "Bamboo Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1424334834940276736/iSiCPvb0_400x400.jpg",
-    sources: ["https://bamboo-pool.com/wordpress/feed/"],
-    twitterUsername: "bamboo_pool_jp",
-  },
-     {
+  {
     id: "1STEP",
     name: "1STEP",
     role: "SPO",
