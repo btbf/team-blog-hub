@@ -208,4 +208,13 @@ export const members: Member[] = [
     sources: ["https://bamboo-pool.com/wordpress/feed/"],
     twitterUsername: "bamboo_pool_jp",
   },
+  {
+    id: "4KOMA",
+    name: "4KOMA-StakePool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://raw.githubusercontent.com/4koma/pool/main/4KOMA.png",
+    sources: ["https://www.cardano-4koma.com/?feed=rss2"],
+    twitterUsername: "spo_tora",
+  },
 ];
