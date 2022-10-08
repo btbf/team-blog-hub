@@ -224,6 +224,6 @@ export const members: Member[] = [
     bio: "SPO",
     avatarSrc: "https://miro.medium.com/fit/c/176/176/0*0XkBPdvw9hTPNWwg",
     sources: ["https://medium.com/feed/@nihon-ichi-cardano"],
-    twitterUsername: "spo_tora",
+    twitterUsername: "sakakibara1JPN",
   },
 ];
