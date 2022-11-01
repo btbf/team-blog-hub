@@ -100,13 +100,4 @@ export const members: Member[] = [
     sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCTuKVZSUCtZX6HxK-Dg4eNw"],
     twitterUsername: "Cardano_ISSA",
   },
-   {
-    id: "SASA",
-    name: "SASA Stake Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1410421445809696768/ftjM7kT__400x400.jpg",
-    sources: ["https://nagamaru-panda.blog/?feed=rss2"],
-    twitterUsername: "nagamaru_panda",
-  },
 ];
