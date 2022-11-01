@@ -106,7 +106,7 @@ export const members: Member[] = [
     role: "SPO",
     bio: "SPO",
     avatarSrc: "https://pbs.twimg.com/profile_images/1410421445809696768/ftjM7kT__400x400.jpg",
-    sources: ["https://nagamaru-panda.blog/feed/"],
+    sources: ["https://nagamaru-panda.blog/?feed=rss2"],
     twitterUsername: "nagamaru_panda",
   },
    {
