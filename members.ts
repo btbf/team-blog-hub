@@ -10,4 +10,13 @@ export const members: Member[] = [
     sources: ["https://xstakepool.com/feed/"],
     twitterUsername: "btbfpark",
   },
+ {
+    id: "DOW",
+    name: "DOW Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://raw.githubusercontent.com/Dow-shi/cardano-stake-pool/main/logo.png",
+    sources: ["https://expo-dow.com/feed/"],
+    twitterUsername: "Dow_shi1",
+  },
 ];
