@@ -28,13 +28,4 @@ export const members: Member[] = [
     sources: ["https://coffeepool.jp/feed/"],
     twitterUsername: "hix_coffeepool",
   },
-  {
-    id: "MYB",
-    name: "MIYABI KYOTO",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://static.adapools.org/pool_logo/de1d84fcbacbbc51ee5511b371c621a5335ce94d5d5d720d4c066107.png",
-    sources: ["https://miyabi-kyoto.org/feed/"],
-    twitterUsername: "Miyabi_Kyoto_",
-  },
 ];
