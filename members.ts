@@ -127,13 +127,4 @@ export const members: Member[] = [
     sources: ["https://aichi-stakepool.com/feed/"],
     twitterUsername: "_beyondstandard",
   },
-   {
-    id: "SIPO",
-    name: "SITION POOL",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://github.com/btbf/team-blog-hub/blob/master/public/avatars/sipo_400x400.jpg?raw=true",
-    sources: ["https://sipo.tokyo/?feed=rss2"],
-    twitterUsername: "SIPO_Tokyo",
-  },
 ];
