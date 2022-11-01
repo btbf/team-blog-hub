@@ -145,13 +145,4 @@ export const members: Member[] = [
     sources: ["https://cardano-aden.com/feed/"],
     twitterUsername: "cardano_aden",
   },
-   {
-    id: "HUNNY",
-    name: "HUNNY pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1449626542519111685/cTz29i2j_400x400.jpg",
-    sources: ["https://www.hunny-pool.com/blog-feed.xml"],
-    twitterUsername: "kurokuma_hunny",
-  },
 ];
