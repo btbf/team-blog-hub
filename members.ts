@@ -118,13 +118,5 @@ export const members: Member[] = [
     sources: ["https://note.com/momo_ada_pool/rss"],
     twitterUsername: "momoadapool",
   },
-   {
-    id: "AICHI",
-    name: "Aichi Stake Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://static.adapools.org/pool_logo/970e9a7ae4677b152c27a0eba3db996b372de094d24fc2974768f3da.png",
-    sources: ["https://aichi-stakepool.com/feed/"],
-    twitterUsername: "_beyondstandard",
-  },
+
 ];
