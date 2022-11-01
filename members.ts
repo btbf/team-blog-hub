@@ -91,13 +91,4 @@ export const members: Member[] = [
     sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCz3QzD1qX5fm1KqQGGZhR0A"],
     twitterUsername: "necotaSensei",
   },
-   {
-    id: "ISSA",
-    name: "ISSA@Catalyst提案者",
-    role: "Youtube",
-    bio: "Youtube",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1472110623748403206/Ygxq3OiP_400x400.jpg",
-    sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCTuKVZSUCtZX6HxK-Dg4eNw"],
-    twitterUsername: "Cardano_ISSA",
-  },
 ];
