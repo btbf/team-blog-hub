@@ -199,13 +199,4 @@ export const members: Member[] = [
     sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCnO3pdhaLExEToa9kM_lCBw"],
     twitterUsername: "1step_cardano",
   },
-  {
-    id: "4KOMA",
-    name: "4KOMA-StakePool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://raw.githubusercontent.com/4koma/pool/main/4KOMA.png",
-    sources: ["https://www.cardano-4koma.com/?feed=rss2"],
-    twitterUsername: "spo_tora",
-  },
 ];
