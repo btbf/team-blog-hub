@@ -73,13 +73,4 @@ export const members: Member[] = [
     sources: ["https://nizi-stake-pool.com/feed/"],
     twitterUsername: "sNiziStake",
   },
-   {
-    id: "JSP",
-    name: "Japanese Stake Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1387325125867892740/JUuqRrB3_400x400.jpg",
-    sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCBWyk1XiT0qRQwHYuasyv4Q"],
-    twitterUsername: "cardano_spo",
-  },
 ];
