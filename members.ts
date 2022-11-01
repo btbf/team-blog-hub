@@ -172,13 +172,4 @@ export const members: Member[] = [
     sources: ["https://kagisippo.wixsite.com/website-1/blog-feed.xml"],
     twitterUsername: "NGS_KGSP",
   },
-   {
-    id: "KURIS",
-    name: "KURIS JAPAN",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://static.adapools.org/pool_logo/78149b89d9aa69657ff326a82a0949e5c61b44d4d25b87f8ea6c9a0a.png",
-    sources: ["https://kuris.org/?feed=rss2"],
-    twitterUsername: "hakunaCardanoS1",
-  },
 ];
