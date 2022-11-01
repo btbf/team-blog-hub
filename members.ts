@@ -136,13 +136,4 @@ export const members: Member[] = [
     sources: ["https://sipo.tokyo/?feed=rss2"],
     twitterUsername: "SIPO_Tokyo",
   },
-   {
-    id: "ADEN",
-    name: "Cardano ADEN Stake Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://static.adapools.org/pool_logo/e2be8bcd95ee62227a2484be8619d2f2f800ec89eb2deacaa743d130.png",
-    sources: ["https://cardano-aden.com/feed/"],
-    twitterUsername: "cardano_aden",
-  },
 ];
