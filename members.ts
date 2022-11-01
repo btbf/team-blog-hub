@@ -19,13 +19,4 @@ export const members: Member[] = [
     sources: ["https://expo-dow.com/feed/"],
     twitterUsername: "Dow_shi1",
   },
-  {
-    id: "COFFEE",
-    name: "COFFEE POOL",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://coffeepool.jp/poolicon.png",
-    sources: ["https://coffeepool.jp/feed/"],
-    twitterUsername: "hix_coffeepool",
-  },
 ];
