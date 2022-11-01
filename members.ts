@@ -181,13 +181,4 @@ export const members: Member[] = [
     sources: ["https://kuris.org/?feed=rss2"],
     twitterUsername: "hakunaCardanoS1",
   },
-    {
-    id: "MOEKO",
-    name: "Moeko Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://cdn.adapools.org/pool_logo/1285e74b0ad83a6b2bf1d765103253b4f15e624468236292ca718183.png",
-    sources: ["https://cardano-ada.info/category/blog/feed"],
-    twitterUsername: "zakana_2828",
-  },
 ];
