@@ -163,13 +163,4 @@ export const members: Member[] = [
     sources: ["https://kazunaka.com/category/blog/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/ada/feed/"],
     twitterUsername: "nkr_1234",
   },
-   {
-    id: "NGS",
-    name: "NGS発達障がい支援KGSP",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://cdn.adapools.org/pool_logo/d4b296f51882044cd8b222c49c88d4ec989b1172422fd0c355b885ae.png",
-    sources: ["https://kagisippo.wixsite.com/website-1/blog-feed.xml"],
-    twitterUsername: "NGS_KGSP",
-  },
 ];
