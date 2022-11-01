@@ -43,7 +43,7 @@ export const members: Member[] = [
     role: "SPO",
     bio: "SPO",
     avatarSrc: "https://static.adapools.org/pool_logo/940d6893606290dc6b7705a8aa56a857793a8ae0a3906d4e2afd2119.png",
-    sources: ["https://wyam-stakepool.com/?feed=rss2"],
+    sources: ["https://wyam-stakepool.com/feed/"],
     twitterUsername: "WYAM_StakePool",
   },
    {
