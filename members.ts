@@ -154,13 +154,4 @@ export const members: Member[] = [
     sources: ["https://www.hunny-pool.com/blog-feed.xml"],
     twitterUsername: "kurokuma_hunny",
   },
-   {
-    id: "NKR",
-    name: "NKR ADA Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://static.adapools.org/pool_logo/793bab987086c97fd34f4009dfdc06e36c84c9bfc3f35b0dced39d92.png",
-    sources: ["https://kazunaka.com/category/blog/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/ada/feed/"],
-    twitterUsername: "nkr_1234",
-  },
 ];
