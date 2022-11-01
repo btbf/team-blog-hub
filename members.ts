@@ -11,8 +11,8 @@ export const members: Member[] = [
     twitterUsername: "btbfpark",
   },
 {
-    id: "EXPO",
-    name: "EXPO POOL",
+    id: "DOW",
+    name: "DOW Pool",
     role: "SPO",
     bio: "SPO",
     avatarSrc: "https://static.adapools.org/pool_logo/b352298733374ae760475bb3cd86b4b52fe3dcf7fd61f678e969030e.png",
@@ -198,15 +198,6 @@ export const members: Member[] = [
     avatarSrc: "https://cdn.adapools.org/pool_logo/e8f538755c14d1e7f1274b46b5f292ba0c247149a8ba7b9eb410eb1a.png",
     sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCnO3pdhaLExEToa9kM_lCBw"],
     twitterUsername: "1step_cardano",
-  },
-  {
-    id: "BAMBO",
-    name: "Bamboo Pool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://pbs.twimg.com/profile_images/1424334834940276736/iSiCPvb0_400x400.jpg",
-    sources: ["https://bamboo-pool.com/wordpress/feed/"],
-    twitterUsername: "bamboo_pool_jp",
   },
   {
     id: "4KOMA",
