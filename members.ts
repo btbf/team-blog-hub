@@ -82,13 +82,4 @@ export const members: Member[] = [
     sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCBWyk1XiT0qRQwHYuasyv4Q"],
     twitterUsername: "cardano_spo",
   },
-   {
-    id: "NAP",
-    name: "NEKOTA ADA POOL",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://www.publickey.co.jp/files/nap_log_maru_tw64.png",
-    sources: ["https://www.youtube.com/feeds/videos.xml?channel_id=UCz3QzD1qX5fm1KqQGGZhR0A"],
-    twitterUsername: "necotaSensei",
-  },
 ];
