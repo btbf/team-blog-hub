@@ -208,13 +208,4 @@ export const members: Member[] = [
     sources: ["https://www.cardano-4koma.com/?feed=rss2"],
     twitterUsername: "spo_tora",
   },
-  {
-    id: "MUEN",
-    name: "MUEN-StakePool",
-    role: "SPO",
-    bio: "SPO",
-    avatarSrc: "https://user-images.githubusercontent.com/83693022/153592808-ad3800ba-2b5c-4bb3-928f-ed2763001470.jpeg",
-    sources: ["https://note.com/muen_project/rss"],
-    twitterUsername: "slowhand4040",
-  },
 ];
