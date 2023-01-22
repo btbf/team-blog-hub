@@ -208,4 +208,13 @@ export const members: Member[] = [
     sources: ["https://www.cardano-4koma.com/?feed=rss2"],
     twitterUsername: "spo_tora",
   },
+{
+    id: "1JPN",
+    name: "日本壱プール",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://raw.githubusercontent.com/sakakibaraakio/a/master/a.png",
+  sources: ["https://medium.com/feed/@nihon-ichi-cardano"],
+    twitterUsername: "sakakibara1JPN",
+  },
 ];
