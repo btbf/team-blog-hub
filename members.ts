@@ -1,6 +1,15 @@
 import { Member } from "@src/types";
 
 export const members: Member[] = [
+   {
+    id: "XSP",
+    name: "X-StakePool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://xstakepool.com/xsp-icon64.png",
+    sources: ["https://xstakepool.com/feed/"],
+    twitterUsername: "X_StakePool_XSP",
+  },
   {
     id: "COFFEE",
     name: "COFFEE POOL",
@@ -207,5 +216,14 @@ export const members: Member[] = [
     avatarSrc: "https://user-images.githubusercontent.com/83693022/153592808-ad3800ba-2b5c-4bb3-928f-ed2763001470.jpeg",
     sources: ["https://note.com/muen_project/rss"],
     twitterUsername: "slowhand4040",
+  },
+  {
+    id: "Hino0",
+    name: "Hinomaru Stake Pool",
+    role: "SPO",
+    bio: "SPO",
+    avatarSrc: "https://pbs.twimg.com/profile_images/1629392185572614148/2vb27PjT_400x400.jpg",
+    sources: ["https://hinomaru.blog/feed/"],
+    twitterUsername: "HinomaruPool",
   },
 ];
