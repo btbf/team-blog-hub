@@ -1,13 +1,13 @@
 import { Member } from "@src/types";
 
 export const members: Member[] = [
-   {
-    id: "XSP",
-    name: "X-StakePool",
+{
+    id: "COFFEE",
+    name: "COFFEE POOL",
     role: "SPO",
     bio: "SPO",
-    avatarSrc: "https://xstakepool.com/image/xsp-icon64.png",
-    sources: ["https://xstakepool.com/feed/"],
-    twitterUsername: "X_StakePool_XSP",
+    avatarSrc: "https://coffeepool.jp/poolicon.png",
+    sources: ["https://coffeepool.jp/feed/"],
+    twitterUsername: "hix_coffeepool",
   },
 ];
